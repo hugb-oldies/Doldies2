@@ -11,4 +11,5 @@ ble ble
 I am not dumb!
 Nú er komið nóg...og þó :)
 Enn bætum við í skjalið
+Hér er ég að vinna á mínu branchi og sé ekki það sem Freydís push-aði áðan.
 
